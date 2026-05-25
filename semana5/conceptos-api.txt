@@ -1,0 +1,5 @@
+¿Qué hace esta ruta?
+Esta ruta llamada /reporte, que usa el método POST, recibe información que le envía el usuario (en este caso un mensaje), la lee y responde confirmando que la recibió, devolviendo el mismo mensaje que se envió. A diferencia de GET, que solo pide información, POST sirve para enviar o guardar datos nuevos.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Sería muy útil para crear un sistema donde los vecinos puedan enviar reportes, por ejemplo: reportes de daños en calles, problemas de luz, alertas de seguridad o solicitudes de ayuda. La comunidad envía la información y el sistema la recibe y la organiza para que los encargados la vean y la atiendan.
