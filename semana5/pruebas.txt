@@ -1,8 +1,0 @@
-Prueba 1: http://localhost:3000
-Al entrar aquí, el servidor responde mostrando el texto: "Servidor activo". Es la ruta principal o de inicio.
-
-Prueba 2: http://localhost:3000/saludo
-En esta dirección aparece el mensaje: "Hola comunidad". Es una ruta específica que entrega un saludo fijo.
-
-Prueba 3: http://localhost:3000/mensaje/juan
-Aquí el servidor recibe el nombre "juan" que va escrito en la dirección, y responde personalmente: "Hola juan". Si cambio "juan" por otro nombre, saluda con ese nuevo nombre.
