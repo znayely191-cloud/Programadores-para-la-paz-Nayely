@@ -1,0 +1,5 @@
+{
+  "tipo": "Vía en mal estado",
+  "descripcion": "En la calle principal hay un hueco grande que dificulta el paso de vehículos y peatones, especialmente cuando llueve."
+}
+
