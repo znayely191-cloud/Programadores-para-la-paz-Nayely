@@ -1,0 +1,11 @@
+1. ¿Qué diferencia hay entre Node.js y el navegador?
+Node.js permite ejecutar código JavaScript en el servidor, mientras que el navegador lo hace solo en el lado del cliente.
+
+2. ¿Para qué sirve el archivo package.json?
+Guarda la información del proyecto, las dependencias que usamos y las instrucciones para ejecutar el código.
+
+3. ¿Qué es un servidor web?
+Es un programa que recibe solicitudes de los usuarios y envía respuestas, mostrando información o ejecutando acciones.
+
+4. ¿Qué hace la función app.listen()?
+Se encarga de poner el servidor a la escucha en un puerto específico, para que pueda recibir conexiones.
