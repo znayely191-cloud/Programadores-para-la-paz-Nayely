@@ -1,0 +1,4 @@
+Al consultar la ruta GET /reportes se muestra la lista de reportes guardados.
+Si no hay ninguno, aparece un arreglo vacío [].
+Al enviar un nuevo reporte con POST, se agrega a la lista y se puede ver al consultar de nuevo.
+Los datos se mantienen mientras el servidor esté encendido.
