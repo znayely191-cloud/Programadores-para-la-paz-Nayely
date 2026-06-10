@@ -1,0 +1,11 @@
+1. ¿Qué es Node.js?
+Es un entorno que permite ejecutar JavaScript fuera del navegador, directamente en el servidor.
+
+2. ¿Para qué sirve npm init?
+Sirve para iniciar un proyecto y crear el archivo package.json con la configuración.
+
+3. ¿Qué es Express?
+Es una librería que facilita mucho la creación de servidores y aplicaciones web en Node.js.
+
+4. ¿Qué hace app.get()?
+Define una ruta: le dice al servidor qué responder cuando alguien entra a esa dirección.

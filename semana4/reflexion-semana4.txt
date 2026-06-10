@@ -1,0 +1,5 @@
+Reflexión: Tecnologías abiertas y autonomía
+
+Es fundamental que las comunidades construyan sus propias herramientas con tecnologías abiertas como Node.js, porque así tienen libertad total: no dependen de empresas externas, no pagan licencias y pueden adaptar el código a lo que realmente necesitan.
+
+Al ser abierto, el conocimiento se comparte, se mejora entre todos y se queda en la comunidad. Esto genera autonomía, reduce la brecha digital y asegura que la tecnología esté al servicio de la gente.
