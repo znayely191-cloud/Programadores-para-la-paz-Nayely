@@ -1,0 +1,12 @@
+Plan para la primera iteración
+ 
+Tareas que se realizarán en esta etapa:
+ 
+1. Crear el formulario básico para registrar reportes.
+​
+2. Mostrar la lista de reportes que ya se han recibido.
+​
+3. Agregar el botón para dar apoyo y el contador.
+ 
+¿Por qué se eligen estas tareas?
+Porque son las funciones principales que la comunidad necesita para empezar a usar la plataforma: enviar sus reportes y ver cómo otros apoyan sus causas. Son sencillas de probar y nos permiten ver rápido si funciona bien antes de agregar cosas más complejas.

@@ -1,0 +1,11 @@
+Pregunta 1:
+b) Es una lista ordenada con todas las tareas, necesidades o ideas que se deben realizar para avanzar en el proyecto.
+ 
+Pregunta 2:
+c) Dividir el trabajo en partes cortas y definidas, para ir probando y mejorando poco a poco el sistema.
+ 
+Pregunta 3:
+d) Para evitar repetir tareas manuales, reducir errores y hacer que el sistema funcione de forma más rápida y segura.
+ 
+Pregunta 4:
+a) Saber qué es lo más importante para la comunidad y qué le da más valor al proyecto en este momento.

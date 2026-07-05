@@ -1,0 +1,12 @@
+Tareas que se pueden automatizar en la plataforma
+ 
+1. Copias de seguridad automáticas: Guardar la información cada día sin que nadie tenga que hacerlo manualmente, para no perder los reportes.
+​
+2. Verificación de datos: Revisar que no falte información importante al enviar un reporte, antes de guardarlo.
+​
+3. Actualización de fechas: Poner automáticamente el día y la hora en que se crea o modifica un reporte.
+​
+4. Notificaciones sencillas: Avisar cuando se recibe un nuevo reporte para que se le dé seguimiento rápido.
+ 
+¿Por qué es útil?
+Así evitamos errores humanos, ahorramos tiempo y nos aseguramos de que el sistema funcione de forma constante y segura para toda la comunidad.
