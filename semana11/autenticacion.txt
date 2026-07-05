@@ -1,0 +1,5 @@
+El login permite verificar que cada persona es quien dice ser antes de darle acceso a la plataforma. De esta forma se sabe quién participa y se evitan suplantaciones.
+ 
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos o acciones que no cualquiera debe hacer, como borrar o modificar reportes.
+ 
+Nunca se deben exponer públicamente contraseñas, números de documento, teléfonos, direcciones, tokens ni claves de acceso. Tampoco datos sensibles de las familias o personas de la comunidad.

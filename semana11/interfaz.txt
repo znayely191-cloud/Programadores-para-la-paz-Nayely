@@ -1,0 +1,7 @@
+La interfaz tendrá una vista principal con todas las causas y reportes comunitarios disponibles, organizados por fecha.
+ 
+Contará con un formulario claro para crear una nueva causa: se pedirá título, descripción breve y lugar del reporte.
+ 
+Cada causa tendrá un botón visible para dar apoyo, y al lado un contador que muestre cuántas personas ya la han respaldado.
+ 
+Solo se verá información pública: no se mostrarán datos privados de quienes participan, solo el contenido de los reportes.
