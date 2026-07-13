@@ -1,0 +1,6 @@
+1. Una persona de la comunidad escribe el título y la explicación de la causa que quiere presentar.
+2. Esa información se guarda de forma segura en la base de datos del sistema.
+3. Otras personas pueden ver la causa y dar su apoyo registrando su nombre.
+4. El sistema lleva la cuenta automática de cuántos apoyos tiene la causa.
+5. Cuando se necesite, el sistema arma el documento con los datos y la lista de respaldos.
+6. Se genera el documento listo para descargar o presentar a las entidades.

@@ -1,0 +1,3 @@
+Evento que activa la automatización: Cuando se registra un nuevo apoyo a una causa.
+Mensaje que se envía por Telegram: "Nuevo apoyo recibido para la causa: [nombre de la causa]. Ya cuentan con X respaldos."
+Información que no se debe compartir por seguridad: números de documento de identidad, direcciones, teléfonos, datos personales o cualquier información privada.
