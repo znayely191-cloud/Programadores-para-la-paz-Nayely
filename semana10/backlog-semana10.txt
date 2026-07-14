@@ -1,0 +1,17 @@
+Backlog de tareas para la plataforma comunitaria
+ 
+1. Agregar formulario sencillo para registrar nuevos reportes.
+​
+2. Permitir ver la lista de reportes ordenados por fecha.
+​
+3. Agregar botón para dar apoyo a los reportes.
+​
+4. Crear sección de inicio de sesión para usuarios.
+​
+5. Proteger rutas para que solo personas autorizadas puedan modificar información.
+​
+6. Agregar contador de apoyos en cada reporte.
+​
+7. Hacer que la interfaz se vea bien en celulares.
+​
+8. Agregar respaldo automático de la información.

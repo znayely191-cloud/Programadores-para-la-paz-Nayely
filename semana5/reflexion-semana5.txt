@@ -1,0 +1,7 @@
+Reflexión: Tecnología y aprendizaje colaborativo
+
+Al volver a crear esta carpeta, me doy cuenta de que aprender a programar es como construir algo nuevo cada vez: cada intento nos ayuda a mejorar y a entender mejor cómo funcionan las herramientas.
+
+Usar tecnologías abiertas como Node.js y Express nos da la libertad de crear nuestras propias soluciones, adaptarlas a nuestras necesidades y compartirlas con otros. Esto nos enseña que el conocimiento no se guarda, sino que se comparte y crece cuando trabajamos en comunidad.
+
+Cada error o cambio nos hace aprender más, y eso es lo más importante: seguir practicando y mejorando cada día.

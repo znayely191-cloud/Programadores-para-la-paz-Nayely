@@ -1,0 +1,33 @@
+Modelo de datos para plataforma comunitaria
+ 
+Entidad: Reporte comunitario
+Campos principales:
+ 
+- id: número único para identificar cada reporte
+​
+- titulo: nombre breve del reporte
+​
+- descripcion: detalles de la situación
+​
+- fecha: cuándo se presentó el reporte
+​
+- ubicacion: lugar donde ocurre
+ 
+Propósito:
+Guardar todos los reportes que envía la comunidad para tenerlos organizados y poder darles seguimiento.
+ 
+Entidad: Comentario de seguimiento
+Campos principales:
+ 
+- id: número único del comentario
+​
+- reporte_id: el reporte al que pertenece
+​
+- autor: quien escribe el comentario
+​
+- texto: qué se informa sobre el avance
+​
+- fecha: cuándo se actualiza
+ 
+Propósito:
+Registrar los avances, respuestas o novedades que tiene cada reporte para que todos estén informados.
