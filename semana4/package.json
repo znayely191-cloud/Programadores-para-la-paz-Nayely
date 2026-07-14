@@ -1,0 +1,14 @@
+{
+  "name": "semana4",
+  "version": "1.0.0",
+  "description": "Actividad semana 4 - Servidor básico Node.js + Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Nayely",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
